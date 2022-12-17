@@ -1,0 +1,22 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyoti987/assignment.git"
+  },
+  "author": "Jyoti Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyoti987/assignment/issues"
+  },
+  "homepage": "https://github.com/jyoti987/assignment#readme",
+  "dependencies": {
+    "mongoose": "^6.8.0"
+  }
+}
